@@ -1,7 +1,8 @@
-usr_2489018f-a9ea-48e5-89bf-6b41d620d77b,<color=#ff0000>D</color><color=#ff2000>e</color><color=#ff4000>v</color><color=#ff5f00>e</color><color=#ff7f00>l</color><color=#ff9f00>o</color><color=#ffbf00>p</color><color=#ffdf00>e</color><color=#ffff00>r</color><color=#bfff00>
+usr_2489018f-a9ea-48e5-89bf-6b41d620d77b,<color=#ff0000>D</color><color=#ff2000>e</color><color=#ff4000>v</color><color=#ff5f00>e</color><color=#ff7f00>l</color><color=#ff9f00>o</color><color=#ffbf00>p</color><color=#ffdf00>e</color><color=#ffff00>r</color><color=#bfff00> | <color=#8042E5>Loaded</color>
 usr_157d3fbf-f66c-4d13-a6e8-4abe13e6d469,<color=#d700e2>Streamer</color>
 usr_f98b6ae2-6f78-41e5-ab63-e945c0f56f1d,<color=#d700e2>Mora's pet/BoyFriend</color>
 usr_3c01faa5-153b-4c70-a866-1fd518f1e580,<color=#d700e2>BoyFriend</color>
+usr_cc50fce0-c8f1-48bc-a7bb-7fa1edef4a74,<color=#ffc0cb>Whitelisted</color>
 usr_51895e5a-0435-4f49-a174-f7a7cbaddcae,Munchen
 usr_74f9d87e-e9dd-42a3-8532-c8af55c7bcbf,Munchen
 usr_70ed4344-cc47-46f2-8f7f-3d3b1d90de85,Munchen
